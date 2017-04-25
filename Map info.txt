@@ -1,0 +1,6 @@
+I downloaded the map of San Jose from mapzen:
+https://mapzen.com/data/metro-extracts/metro/san-jose_california/
+
+This map includes the city area of San Jose and also its surrounding natural area. 
+
+This map is a place where I lived before, so I¡¯m more interested to see what database querying reveals, and I¡¯d like an opportunity to contribute to its improvement on OpenStreetMap.org.
